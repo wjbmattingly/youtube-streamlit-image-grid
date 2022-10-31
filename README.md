@@ -2,7 +2,7 @@
 
 This repository houses the code used to create an easy-to-manipulate image grid in Streamlit. The images used in this repository are medieval manuscripts and were gathered from [E-Codices](https://www.e-codices.unifr.ch/en).
 
-!["Demo in Action"](demo.gif)
+!["App in Action"](demo.gif)
 
 Video link: https://youtu.be/x8C8IMqHxFA
 
