@@ -4,7 +4,7 @@ This repository houses the code used to create an easy-to-manipulate image grid 
 
 !["App in Action"](demo.gif)
 
-Video link: https://youtu.be/x8C8IMqHxFA
+Video link: https://youtu.be/GG6WDeLmw6w
 
 !["YouTube Thumbnail"](youtube-thumbnail.png)
 
